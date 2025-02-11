@@ -72,3 +72,17 @@ const restaurant = {
 // il metodo migliore per clonare l'oggetto chef  è lo spreed perchè con spreed tiene anche la funzione makeBurger
 
 // il metodo migliore per clonare l'oggetto resturant è structuredClone perchè clona in profondita e tiene new Date
+
+
+// Code Question 5
+
+
+//  gli oggetti creati in memoria  sono 5
+
+// Chef Hyur
+
+// Chef Hyur
+
+//  Hyur's Burgers
+
+// Hyur's II
