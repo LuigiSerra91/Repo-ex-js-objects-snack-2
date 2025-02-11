@@ -47,4 +47,28 @@ console.log(secondBurger.ingredients[0]); // ? */
 const secondBurger = structuredClone(hamburger);
 const thirdBurger = structuredClone(hamburger); */
 
-// sono stati creati 9 oggetti 
+// sono stati creati 9 oggetti
+
+// Code Question 4
+
+/* const chef = {
+    name: "Chef Hyur",
+    age: 29,
+    makeBurger: (num = 1) => {
+        console.log(`Ecco ${num} hamburger per te!`);
+    },
+}
+
+const restaurant = {
+    name: "Hyur's Burgers",
+    address: {
+        street: 'Main Street',
+        number: 123,
+    },
+    openingDate: new Date(2025, 3, 11),
+    isOpen: false,
+}; */
+
+// il metodo migliore per clonare l'oggetto chef  è lo spreed perchè con spreed tiene anche la funzione makeBurger
+
+// il metodo migliore per clonare l'oggetto resturant è structuredClone perchè clona in profondita e tiene new Date
