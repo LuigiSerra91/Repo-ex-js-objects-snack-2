@@ -74,7 +74,7 @@ const restaurant = {
 // il metodo migliore per clonare l'oggetto resturant è structuredClone perchè clona in profondita e tiene new Date
 
 
-// Code Question 5
+// Code Question 5 (bonus)
 
 
 //  gli oggetti creati in memoria  sono 5
@@ -86,3 +86,5 @@ const restaurant = {
 //  Hyur's Burgers
 
 // Hyur's II
+
+
