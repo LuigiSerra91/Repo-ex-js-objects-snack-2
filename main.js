@@ -27,6 +27,8 @@ console.log(hamburger.ingredients[0]); // ?
 console.log(secondBurger.ingredients[0]); // ? */
 
 // viene stampato Salad in tutti e 2
+// vengono creati 3 oggetti
+
 
 // Code Question 3
 
